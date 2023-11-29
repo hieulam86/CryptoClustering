@@ -11,9 +11,9 @@
     K-Means clustering using PCA-transformed data.
     Visual analysis of clusters.
 
-Results and Visualizations
+## Results and Visualizations
   Elbow curves and cluster visualizations are available in the Jupyter Notebooks for both original and PCA-transformed data.
 
-Conclusion
+## Conclusion
   Analyze the impact of using fewer features through visual comparisons.
   Make observations on cluster separation, data compression, outliers, and computational efficiency.
